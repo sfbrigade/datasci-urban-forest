@@ -9,7 +9,8 @@ Part of the Data Science Group
 ## Questions
 - What is `SiteOrder`?
 - What is `DBH`?
-- How is 
+- How is the `PlotSize` designated?
+- What are `XCoord` and `YCoord` based on?
 
 ## Ideas
 - Map locations
