@@ -6,6 +6,11 @@ This is an exploritory piece for future work with [Friends of the Urban Forest](
 
 Part of the Data Science Group
 
+## Setup
+- Python 2.7
+- Setup [virtualenv](https://virtualenv.pypa.io/en/stable/)
+- Run `pip install -r requirements.txt`
+
 ## Questions
 - What is `SiteOrder`?
 - What is `DBH`?

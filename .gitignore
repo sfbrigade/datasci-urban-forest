@@ -1,3 +1,6 @@
+# We don't upload the data
+Street_Tree_List.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
