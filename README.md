@@ -19,7 +19,7 @@ Part of the Data Science Group
 - Planting dates
 
 ## Data Questions
-- What is `SiteOrder`?
-- What is `DBH`?
-- How is the `PlotSize` designated?
-- What are `XCoord` and `YCoord` based on?
+- What is `SiteOrder`? Number if multiple trees present
+- What is `DBH`? Depth, height
+- How is the `PlotSize` designated? All sorts of units and input schemas
+- What are `XCoord` and `YCoord` based on? Cal coordinate system
