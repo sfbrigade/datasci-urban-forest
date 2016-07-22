@@ -45,3 +45,4 @@ tornado==4.3
 traitlets==4.2.2
 wcwidth==0.1.7
 widgetsnbextension==1.2.4
+seaborn==0.7.1
