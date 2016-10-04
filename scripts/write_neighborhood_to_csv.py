@@ -1,5 +1,7 @@
 """ Given an existing CSV with the (lat, long) of every tree,
     write the new, "derived" neighborhood to the CSV
+
+    Requires https://github.com/dylburger/sf-lat-long-mapper
 """
 from __future__ import print_function
 import csv
