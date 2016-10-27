@@ -1,0 +1,104 @@
+,Density,Diversity,Condition,Vacancies,Sidewalk Damage,Neighborhood
+0,5.0,0.0,6.0,0.0,3.0,Alamo Square
+1,4.0,3.0,6.0,0.0,2.0,Anza Vista
+2,1.0,3.0,1.0,0.0,4.0,Aquatic Park / Ft. Mason
+3,6.0,0.0,4.0,1.0,4.0,Ashbury Heights
+4,3.0,3.0,4.0,2.0,3.0,Balboa Terrace
+5,1.0,3.0,7.0,0.0,3.0,Bayview
+6,5.0,0.0,2.0,1.0,4.0,Bernal Heights
+7,1.0,3.0,8.0,0.0,2.0,Bret Harte
+8,4.0,0.0,4.0,1.0,4.0,Buena Vista
+9,7.0,0.0,1.0,0.0,4.0,Castro
+10,2.0,7.0,7.0,0.0,3.0,Cathedral Hill
+11,3.0,0.0,3.0,3.0,3.0,Cayuga
+12,1.0,3.0,8.0,3.0,1.0,Central Waterfront
+13,1.0,7.0,6.0,0.0,1.0,Chinatown
+14,1.0,3.0,5.0,0.0,1.0,Civic Center
+15,0.0,0.0,1.0,1.0,0.0,Clarendon Heights
+16,6.0,0.0,5.0,0.0,5.0,Cole Valley
+17,4.0,0.0,2.0,1.0,6.0,Corona Heights
+18,0.0,7.0,8.0,0.0,3.0,Cow Hollow
+19,1.0,0.0,3.0,4.0,7.0,Crocker Amazon
+20,2.0,0.0,0.0,3.0,1.0,Diamond Heights
+21,4.0,3.0,7.0,2.0,1.0,Dogpatch
+22,6.0,0.0,2.0,1.0,4.0,Dolores Heights
+23,0.0,3.0,5.0,0.0,0.0,Downtown / Union Square
+24,7.0,0.0,1.0,1.0,4.0,Duboce Triangle
+25,6.0,0.0,0.0,0.0,5.0,Eureka Valley
+26,3.0,0.0,4.0,2.0,7.0,Excelsior
+27,5.0,0.0,3.0,1.0,5.0,Fairmount
+28,0.0,7.0,7.0,0.0,2.0,Financial District
+29,0.0,7.0,3.0,0.0,5.0,Fishermans Wharf
+30,6.0,0.0,2.0,1.0,1.0,Forest Hill
+31,0.0,7.0,4.0,0.0,4.0,Forest Knolls
+32,4.0,0.0,1.0,1.0,4.0,Glen Park
+33,3.0,0.0,5.0,3.0,3.0,Golden Gate Heights
+34,6.0,0.0,6.0,0.0,3.0,Haight Ashbury
+35,10.0,0.0,7.0,0.0,2.0,Hayes Valley
+36,5.0,0.0,2.0,1.0,6.0,Holly Park
+37,0.0,3.0,8.0,0.0,3.0,Hunters Point
+38,0.0,7.0,7.0,0.0,0.0,Ingleside
+39,0.0,7.0,6.0,0.0,1.0,Ingleside Terraces
+40,6.0,3.0,6.0,8.0,1.0,Inner Richmond
+41,4.0,0.0,5.0,1.0,4.0,Inner Sunset
+42,6.0,0.0,7.0,0.0,2.0,Japantown
+43,2.0,0.0,3.0,2.0,1.0,Laguna Honda
+44,6.0,0.0,6.0,4.0,1.0,Lake Street
+45,0.0,7.0,5.0,0.0,0.0,Lakeshore
+46,4.0,0.0,7.0,3.0,1.0,Laurel Heights / Jordan Park
+47,3.0,3.0,5.0,5.0,10.0,Little Hollywood
+48,5.0,0.0,6.0,1.0,2.0,Lone Mountain
+49,8.0,0.0,6.0,0.0,3.0,Lower Haight
+50,2.0,0.0,3.0,0.0,5.0,Lower Nob Hill
+51,6.0,0.0,6.0,0.0,2.0,Lower Pacific Heights
+52,0.0,7.0,7.0,0.0,5.0,Marina
+53,0.0,10.0,5.0,0.0,3.0,Merced Heights
+54,0.0,3.0,8.0,0.0,0.0,Merced Manor
+55,0.0,7.0,2.0,1.0,1.0,Midtown Terrace
+56,5.0,0.0,6.0,1.0,3.0,Mint Hill
+57,3.0,3.0,1.0,6.0,1.0,Miraloma Park
+58,5.0,0.0,3.0,1.0,4.0,Mission
+59,0.0,0.0,10.0,3.0,0.0,Mission Bay
+60,5.0,0.0,5.0,1.0,2.0,Mission Dolores
+61,3.0,0.0,3.0,1.0,4.0,Mission Terrace
+62,2.0,3.0,1.0,10.0,2.0,Monterey Heights
+63,3.0,0.0,3.0,1.0,4.0,Mt. Davidson Manor
+64,4.0,0.0,2.0,0.0,6.0,Nob Hill
+65,6.0,0.0,2.0,1.0,4.0,Noe Valley
+66,3.0,3.0,6.0,0.0,4.0,
+67,0.0,3.0,4.0,0.0,3.0,North Beach
+68,1.0,0.0,3.0,4.0,3.0,Oceanview
+69,5.0,3.0,6.0,9.0,1.0,Outer Mission
+70,5.0,0.0,6.0,0.0,1.0,Outer Richmond
+71,3.0,3.0,2.0,1.0,9.0,Outer Sunset
+72,4.0,0.0,6.0,0.0,3.0,Pacific Heights
+73,5.0,0.0,6.0,0.0,1.0,Panhandle
+74,2.0,3.0,5.0,1.0,4.0,Parkside
+75,4.0,0.0,4.0,1.0,3.0,Parnassus Heights
+76,4.0,0.0,3.0,0.0,5.0,Peralta Heights
+77,2.0,0.0,3.0,1.0,5.0,Polk Gulch
+78,5.0,0.0,7.0,2.0,1.0,Portola
+79,9.0,0.0,4.0,1.0,3.0,Potrero Hill
+80,0.0,7.0,3.0,2.0,0.0,Presidio Heights
+81,5.0,0.0,6.0,3.0,1.0,Presidio National Park
+82,0.0,3.0,10.0,0.0,0.0,Presidio Terrace
+83,2.0,0.0,2.0,0.0,5.0,Rincon Hill
+84,1.0,0.0,7.0,3.0,2.0,Russian Hill
+85,1.0,0.0,0.0,4.0,3.0,Seacliff
+86,1.0,3.0,5.0,1.0,2.0,Sherwood Forest
+87,0.0,7.0,7.0,0.0,0.0,Showplace Square
+88,1.0,3.0,7.0,1.0,2.0,Silver Terrace
+89,7.0,0.0,4.0,1.0,0.0,South of Market
+90,3.0,0.0,3.0,3.0,5.0,St. Francis Wood
+91,5.0,0.0,2.0,2.0,3.0,St. Marys Park
+92,4.0,3.0,7.0,10.0,1.0,Sunnyside
+93,1.0,3.0,5.0,0.0,4.0,Sutro Heights
+94,1.0,3.0,6.0,0.0,1.0,Telegraph Hill
+95,1.0,3.0,5.0,0.0,4.0,Tenderloin
+96,2.0,0.0,2.0,0.0,5.0,Union Street
+97,3.0,0.0,0.0,2.0,3.0,University Mound
+98,0.0,3.0,7.0,1.0,5.0,Upper Market
+99,4.0,0.0,4.0,3.0,2.0,Visitacion Valley
+100,6.0,0.0,6.0,0.0,2.0,West Portal
+101,2.0,7.0,2.0,8.0,1.0,Western Addition
+102,3.0,3.0,4.0,1.0,3.0,Westwood Highlands
