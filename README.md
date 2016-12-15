@@ -11,15 +11,7 @@ Part of the Data Science Group
 - Setup [virtualenv](https://virtualenv.pypa.io/en/stable/)
 - Run `pip install -r requirements.txt`
 
-## Ideas
-- Map locations
-  - Show which ones FuF help with
-  - Show density
-  - Organize by type
-- Planting dates
-
-## Data Questions
-- What is `SiteOrder`? Number if multiple trees present
-- What is `DBH`? Depth, height
-- How is the `PlotSize` designated? All sorts of units and input schemas
-- What are `XCoord` and `YCoord` based on? Cal coordinate system
+# TODO
+- lfs
+- add remaining data
+- organize code
