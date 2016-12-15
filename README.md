@@ -8,8 +8,11 @@ Part of the Data Science Group
 
 ## Setup
 - Python 2.7
+- Install [git large file](https://git-lfs.github.com/) (`brew install git-lfs`)
+- Clone repo
 - Setup [virtualenv](https://virtualenv.pypa.io/en/stable/)
 - Run `pip install -r requirements.txt`
+- You may need to fetch the large files (`git lfs pull`)
 
 # TODO
 - lfs
